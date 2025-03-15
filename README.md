@@ -7,7 +7,7 @@ I'm a **Master's student in Applied Data Science at the University of Chicago**,
 - 📊 **Machine Learning & AI** – Recommender System, titanic survival prediction, loan interest rate modeling, etc.  
 - 🔎 **Data Science & Analytics** – Experience with logistic regression, random forests, deep learning, etc.  
 - 🏢 **Real-World Applications** – Built a career development system for IT services and optimized customer churn prediction for a fitness center.  
-### & MANY MORe
+### & MANY MORE
 
 ## 📚 Skills  
 ### 🔹 Programming  
